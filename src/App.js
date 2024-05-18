@@ -1,9 +1,9 @@
-import React from 'react';
-import { BrowserRouter, Route, Routes, Navigate } from 'react-router-dom';
-import useAuth from './hook/useAuth';
-import Login from './pages/login/Login';
-import Dashboard from './pages/dashboard/Dashboard';
-import UserDashboard from './pages/user-dashboard/UserDashboard';
+import React from "react";
+import { BrowserRouter, Route, Routes, Navigate } from "react-router-dom";
+import useAuth from "./hook/useAuth";
+import Login from "./pages/login/Login";
+import Dashboard from "./pages/dashboard/Dashboard";
+import UserDashboard from "./pages/user-dashboard/UserDashboard";
 
 function ProtectedRoute({ element, ...rest }) {
   const isAuthenticated = useAuth();
@@ -16,7 +16,7 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route index element={<Login />} />
-        <Route path="/login" element={<Login />} />
+        {/* <Route path="/login" element={<Login />} /> */}
 
         <Route
           path="/dashboard"
