@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/younis-frontend/static/css/main.3c968c7f.chunk.css",
+    "main.js": "/younis-frontend/static/js/main.a5276240.chunk.js",
+    "main.js.map": "/younis-frontend/static/js/main.a5276240.chunk.js.map",
+    "runtime~main.js": "/younis-frontend/static/js/runtime~main.f17292c0.js",
+    "runtime~main.js.map": "/younis-frontend/static/js/runtime~main.f17292c0.js.map",
+    "static/js/2.c9a8c9e4.chunk.js": "/younis-frontend/static/js/2.c9a8c9e4.chunk.js",
+    "static/js/2.c9a8c9e4.chunk.js.map": "/younis-frontend/static/js/2.c9a8c9e4.chunk.js.map",
+    "index.html": "/younis-frontend/index.html",
+    "precache-manifest.daa3591b6e7cd439d85a0e75d7ef0b66.js": "/younis-frontend/precache-manifest.daa3591b6e7cd439d85a0e75d7ef0b66.js",
+    "service-worker.js": "/younis-frontend/service-worker.js",
+    "static/css/main.3c968c7f.chunk.css.map": "/younis-frontend/static/css/main.3c968c7f.chunk.css.map"
+  }
+}
