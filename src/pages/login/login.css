@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.login {
+  position: absolute;
+  /* top: 0; */
+  /* left: 10; */
+  /* right: 0; */
+
+  /* z-index: 9999; */
+  height: 100vh;
+  width: 100vw;
+  background-image: radial-gradient(
+    circle at top right,
+    rgb(49, 157, 235) 0%,
+    rgb(49, 157, 235) 13%,
+    rgb(76, 166, 234) 13%,
+    rgb(76, 166, 234) 23%,
+    rgb(103, 176, 232) 23%,
+    rgb(103, 176, 232) 33%,
+    rgb(130, 185, 231) 33%,
+    rgb(130, 185, 231) 46%,
+    rgb(156, 194, 230) 46%,
+    rgb(156, 194, 230) 48%,
+    rgb(183, 203, 229) 48%,
+    rgb(183, 203, 229) 63%,
+    rgb(210, 213, 227) 63%,
+    rgb(210, 213, 227) 83%,
+    rgb(237, 222, 226) 83%,
+    rgb(237, 222, 226) 100%
+  );
+}
