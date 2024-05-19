@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/younis-frontend/precache-manifest.daa3591b6e7cd439d85a0e75d7ef0b66.js"
+  "/younis-frontend/precache-manifest.426851054490169e2a9392282754c379.js"
 );
 
 self.addEventListener('message', (event) => {
